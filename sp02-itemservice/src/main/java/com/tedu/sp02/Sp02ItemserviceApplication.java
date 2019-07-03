@@ -13,5 +13,7 @@ public class Sp02ItemserviceApplication {
 		//注释，修改;;
 		SpringApplication.run(Sp02ItemserviceApplication.class, args);
 	}
-
+	
+	
+	//我在sts.exe上做了修改;
 }
