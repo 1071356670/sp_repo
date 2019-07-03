@@ -9,6 +9,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class Sp02ItemserviceApplication {
 
 	public static void main(String[] args) {
+		
+		//注释，修改;;
 		SpringApplication.run(Sp02ItemserviceApplication.class, args);
 	}
 
